@@ -103,13 +103,6 @@ Você pode estender o projeto com:
 ✔ Efeitos sonoros e música de fundo
 ✔ Build exportável para PC ou mobile
 
-📫 Contato
-
-Se quiser discutir ideias, tirar dúvidas ou colaborar:
-
-📍 GitHub: https://github.com/mauriciomourag
-
-📧 Email: (coloque seu email aqui se quiser)
 
 📌 Nota Acadêmica
 
