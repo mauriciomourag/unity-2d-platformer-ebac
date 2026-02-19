@@ -1,4 +1,5 @@
 🕹️ 2D Platformer Game (Unity)
+
 🎮 Sobre o Projeto
 
 Este repositório contém um jogo de plataforma 2D desenvolvido em Unity, criado como parte das atividades e exercícios da formação na EBAC (Escola Britânica de Artes Criativas e Tecnologia), com foco em aprender a desenvolver jogos usando a Unity Engine.
